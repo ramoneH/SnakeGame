@@ -1,9 +1,8 @@
 # Snake game
-**Name:** Maria Cristina Di Termine
-
+**Name:** Ramone D Hamlett
 **Category:** Canvas HTML5 and Javascript
 
-**Date:** February 2015
+**Date:** February 2018
 ----------------------------------------------------------------------
 
 **This is a simple classic 8 bit snake game created using the canvases of HTML5 and javascript.**
